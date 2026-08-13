@@ -522,3 +522,24 @@ I suggest **Experiment #1 = Snowflake Query Optimization**, because you already 
 We won't jump into coding yet.
 
 **First we'll design the experiment properly**, including the dataset, queries, variables, measurements, and success criteria. Then you'll run it and bring the results back, and we'll proceed to documentation and publication.
+
+
+
+STEP 1  → Choose what to investigate
+STEP 2  → Define the question
+STEP 3  → Write hypothesis
+STEP 4  → Design the experiment
+STEP 5  → Prepare environment
+STEP 6  → Build baseline
+STEP 7  → Measure baseline
+STEP 8  → Change ONE thing
+STEP 9  → Measure again
+STEP 10 → Repeat experiments
+STEP 11 → Analyze results
+STEP 12 → Identify what you learned
+STEP 13 → Make engineering decision
+STEP 14 → Document experiment
+STEP 15 → Create reusable pattern
+STEP 16 → Put everything in GitHub
+STEP 17 → Publish publicly
+STEP 18 → Convert into future knowledge
